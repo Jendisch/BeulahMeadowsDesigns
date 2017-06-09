@@ -1,4 +1,4 @@
-﻿Group: Shipping rate computation
+Group: Shipping rate computation
 FriendlyName: Manual (Fixed or By Weight)
 SystemName: Shipping.FixedOrByWeight
 Version: 1.02
