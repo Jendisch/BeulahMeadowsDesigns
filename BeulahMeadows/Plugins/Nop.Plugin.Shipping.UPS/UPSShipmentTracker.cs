@@ -67,7 +67,7 @@ namespace Nop.Plugin.Shipping.UPS
             var result = new List<ShipmentStatusEvent>();
             try
             {
-                //use try-catch to ensure exception won't be thrown is web service is not available
+                //use try-catch to ensure exception won't be thrown if web service is not available
 
                 var track = new TrackService();
                 var tr = new TrackRequest();
