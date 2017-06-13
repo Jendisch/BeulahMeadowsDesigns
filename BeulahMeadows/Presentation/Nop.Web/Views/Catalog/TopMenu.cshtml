@@ -54,13 +54,8 @@
     {
         <li><a href="@Url.RouteUrl("Topic", new { SeName = topic.SeName })">@topic.Name</a></li>
     }
-    @if (Model.BlogEnabled && Model.DisplayBlogMenuItem)
     {
-        <li><a href="@Url.RouteUrl("Blog")">@T("Blog")</a></li>
-    }
-    @if (Model.ForumEnabled && Model.DisplayForumsMenuItem)
-    {
-        <li><a href="@Url.RouteUrl("Boards")">@T("Forum.Forums")</a></li>
+    <li><a href="@Url.RouteUrl("Gallery")">Gallery</a></li>
     }
     @if (Model.DisplayContactUsMenuItem)
     {
