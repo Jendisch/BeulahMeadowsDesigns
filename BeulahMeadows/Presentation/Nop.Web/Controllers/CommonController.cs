@@ -265,6 +265,12 @@ namespace Nop.Web.Controllers
         }
 
 
+        public ActionResult GetGallery()
+        {
+            return View("GetGallery");
+        }
+
+
         //contact us page
         [NopHttpsRequirement(SslRequirement.Yes)]
         //available even when a store is closed

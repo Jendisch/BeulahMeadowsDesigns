@@ -4,10 +4,14 @@
     //page class
     Html.AppendPageCssClassParts("html-home-page");
 }
+
+
 <div class="page home-page">
     <div class="page-body">
         @Html.Widget("home_page_top")
         @Html.Action("TopicBlock", "Topic", new { systemName = "HomePageText" })
+        <h2>WHERE DOES THIS COME UP</h2>
+        <br />
         @Html.Widget("home_page_before_categories")
         @Html.Action("HomepageCategories", "Catalog")
         @Html.Widget("home_page_before_products")

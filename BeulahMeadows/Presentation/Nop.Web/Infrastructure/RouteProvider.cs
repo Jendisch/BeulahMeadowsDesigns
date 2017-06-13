@@ -25,6 +25,21 @@ namespace Nop.Web.Infrastructure
                             new { controller = "Widget", action = "WidgetsByZone" },
                             new[] { "Nop.Web.Controllers" });
 
+
+
+
+
+            //gallery
+            routes.MapLocalizedRoute("Gallery",
+            "gallery/",
+            new { controller = "Common", action = "GetGallery" },
+            new[] { "Nop.Web.Controllers" });
+
+
+
+
+
+
             //login
             routes.MapLocalizedRoute("Login",
                             "login/",

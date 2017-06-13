@@ -381,6 +381,7 @@
     <Compile Include="Models\Common\ContactVendorModel.cs" />
     <Compile Include="Models\Common\FooterModel.cs" />
     <Compile Include="Models\Common\FaviconModel.cs" />
+    <Compile Include="Models\Common\Gallery.cs" />
     <Compile Include="Models\Common\LogoModel.cs" />
     <Compile Include="Models\Common\PagerModel.cs" />
     <Compile Include="Models\Common\SocialModel.cs" />
@@ -665,6 +666,7 @@
     <Content Include="Themes\DefaultClean\Content\images\back-button.png" />
     <Content Include="Themes\DefaultClean\Content\images\calendar-next.png" />
     <Content Include="Themes\DefaultClean\Content\images\calendar-prev.png" />
+    <Content Include="Themes\DefaultClean\Content\images\CampSigns.jpg" />
     <Content Include="Themes\DefaultClean\Content\images\close.png" />
     <Content Include="Themes\DefaultClean\Content\images\compare-button.png" />
     <Content Include="Themes\DefaultClean\Content\images\details.png" />
@@ -673,7 +675,9 @@
     <Content Include="Themes\DefaultClean\Content\images\edit.png" />
     <Content Include="Themes\DefaultClean\Content\images\edit_.png" />
     <Content Include="Themes\DefaultClean\Content\images\email-button.png" />
+    <Content Include="Themes\DefaultClean\Content\images\FatCat.jpg" />
     <Content Include="Themes\DefaultClean\Content\images\first.png" />
+    <Content Include="Themes\DefaultClean\Content\images\GroupClass.jpg" />
     <Content Include="Themes\DefaultClean\Content\images\ie_warning.jpg" />
     <Content Include="Themes\DefaultClean\Content\images\last.png" />
     <Content Include="Themes\DefaultClean\Content\images\loading.gif" />
@@ -682,6 +686,8 @@
     <Content Include="Themes\DefaultClean\Content\images\move.png" />
     <Content Include="Themes\DefaultClean\Content\images\new.png" />
     <Content Include="Themes\DefaultClean\Content\images\next.png" />
+    <Content Include="Themes\DefaultClean\Content\images\PalletBoards.jpg" />
+    <Content Include="Themes\DefaultClean\Content\images\PalletSigns.jpg" />
     <Content Include="Themes\DefaultClean\Content\images\pointer.png" />
     <Content Include="Themes\DefaultClean\Content\images\prev.png" />
     <Content Include="Themes\DefaultClean\Content\images\rating1.png" />
@@ -692,13 +698,17 @@
     <Content Include="Themes\DefaultClean\Content\images\retry.png" />
     <Content Include="Themes\DefaultClean\Content\images\return.png" />
     <Content Include="Themes\DefaultClean\Content\images\rss.png" />
+    <Content Include="Themes\DefaultClean\Content\images\Sheryl.jpg" />
     <Content Include="Themes\DefaultClean\Content\images\shipping.png" />
     <Content Include="Themes\DefaultClean\Content\images\shopping-bag.png" />
+    <Content Include="Themes\DefaultClean\Content\images\SignsOnTable.jpg" />
     <Content Include="Themes\DefaultClean\Content\images\social-sprite.png" />
+    <Content Include="Themes\DefaultClean\Content\images\Stencils.jpg" />
     <Content Include="Themes\DefaultClean\Content\images\subscribe-button.png" />
     <Content Include="Themes\DefaultClean\Content\images\toggle-black.png" />
     <Content Include="Themes\DefaultClean\Content\images\toggle-gray.png" />
     <Content Include="Themes\DefaultClean\Content\images\toggle-white.png" />
+    <Content Include="Themes\DefaultClean\Content\images\TomAndSheryl.jpg" />
     <Content Include="Themes\DefaultClean\Content\images\topic-type1.png" />
     <Content Include="Themes\DefaultClean\Content\images\topic-type2.png" />
     <Content Include="Themes\DefaultClean\Content\images\topic-type3.png" />
@@ -710,6 +720,8 @@
     <Content Include="Themes\DefaultClean\Content\images\vote-up-selected.png" />
     <Content Include="Themes\DefaultClean\Content\images\watch.png" />
     <Content Include="Themes\DefaultClean\Content\images\wishlist-button.png" />
+    <Content Include="Themes\DefaultClean\Content\images\WorkingHard.jpg" />
+    <Content Include="Themes\DefaultClean\Content\images\WorkStation.jpg" />
     <Content Include="Themes\DefaultClean\preview.jpg" />
     <Content Include="Content\Images\default-avatar.jpg" />
     <Content Include="Content\Images\flags\ad.png" />
@@ -973,6 +985,18 @@
     <Content Include="Scripts\public.onepagecheckout.js" />
     <Content Include="Scripts\public.common.js" />
     <Content Include="Themes\DefaultClean\Content\css\print.css" />
+    <Content Include="Views\Common\CampSigns.jpg" />
+    <Content Include="Views\Common\FatCat.jpg" />
+    <Content Include="Views\Common\GroupClass.jpg" />
+    <Content Include="Views\Common\PalletBoards.jpg" />
+    <Content Include="Views\Common\PalletSigns.jpg" />
+    <Content Include="Views\Common\Sheryl.jpg" />
+    <Content Include="Views\Common\SignsOnTable.jpg" />
+    <Content Include="Views\Common\Stencils.jpg" />
+    <Content Include="Views\Common\Supplies1.jpg" />
+    <Content Include="Views\Common\TomAndSheryl.jpg" />
+    <Content Include="Views\Common\WorkingHard.jpg" />
+    <Content Include="Views\Common\WorkStation.jpg" />
     <Content Include="Web.config">
       <SubType>Designer</SubType>
     </Content>
@@ -1029,6 +1053,7 @@
     <Content Include="Views\Vendor\Info.cshtml" />
     <Content Include="Views\Common\Logo.cshtml" />
     <Content Include="Views\Customer\EmailRevalidation.cshtml" />
+    <Content Include="Views\Common\GetGallery.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Plugins\bin\" />
