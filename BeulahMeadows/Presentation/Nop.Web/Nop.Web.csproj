@@ -676,10 +676,13 @@
     <Content Include="Themes\DefaultClean\Content\images\edit_.png" />
     <Content Include="Themes\DefaultClean\Content\images\email-button.png" />
     <Content Include="Themes\DefaultClean\Content\images\FatCat.jpg" />
+    <Content Include="Themes\DefaultClean\Content\images\FBboard.jpg" />
     <Content Include="Themes\DefaultClean\Content\images\first.png" />
+    <Content Include="Themes\DefaultClean\Content\images\GeneralFinishes.jpg" />
     <Content Include="Themes\DefaultClean\Content\images\GroupClass.jpg" />
     <Content Include="Themes\DefaultClean\Content\images\ie_warning.jpg" />
     <Content Include="Themes\DefaultClean\Content\images\last.png" />
+    <Content Include="Themes\DefaultClean\Content\images\LastSupper.jpg" />
     <Content Include="Themes\DefaultClean\Content\images\loading.gif" />
     <Content Include="Themes\DefaultClean\Content\images\logo.png" />
     <Content Include="Themes\DefaultClean\Content\images\menu-icon.png" />
@@ -687,7 +690,6 @@
     <Content Include="Themes\DefaultClean\Content\images\new.png" />
     <Content Include="Themes\DefaultClean\Content\images\next.png" />
     <Content Include="Themes\DefaultClean\Content\images\PalletBoards.jpg" />
-    <Content Include="Themes\DefaultClean\Content\images\PalletSigns.jpg" />
     <Content Include="Themes\DefaultClean\Content\images\pointer.png" />
     <Content Include="Themes\DefaultClean\Content\images\prev.png" />
     <Content Include="Themes\DefaultClean\Content\images\rating1.png" />
@@ -985,18 +987,6 @@
     <Content Include="Scripts\public.onepagecheckout.js" />
     <Content Include="Scripts\public.common.js" />
     <Content Include="Themes\DefaultClean\Content\css\print.css" />
-    <Content Include="Views\Common\CampSigns.jpg" />
-    <Content Include="Views\Common\FatCat.jpg" />
-    <Content Include="Views\Common\GroupClass.jpg" />
-    <Content Include="Views\Common\PalletBoards.jpg" />
-    <Content Include="Views\Common\PalletSigns.jpg" />
-    <Content Include="Views\Common\Sheryl.jpg" />
-    <Content Include="Views\Common\SignsOnTable.jpg" />
-    <Content Include="Views\Common\Stencils.jpg" />
-    <Content Include="Views\Common\Supplies1.jpg" />
-    <Content Include="Views\Common\TomAndSheryl.jpg" />
-    <Content Include="Views\Common\WorkingHard.jpg" />
-    <Content Include="Views\Common\WorkStation.jpg" />
     <Content Include="Web.config">
       <SubType>Designer</SubType>
     </Content>

@@ -1,0 +1,8 @@
+﻿Group: nop4you
+FriendlyName: Amazon authentication
+SystemName: ExternalAuth.Amazon
+Version: 1.33
+SupportedVersions: 3.90
+Author: nop4you.com
+DisplayOrder: 5
+FileName: Nop.Plugin.ExternalAuth.Amazon.dll
