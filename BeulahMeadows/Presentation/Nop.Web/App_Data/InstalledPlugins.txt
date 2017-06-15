@@ -9,10 +9,7 @@ Payments.PayPalStandard
 Payments.PurchaseOrder
 Pickup.PickupInStore
 PromotionFeed.Froogle
-Shipping.AustraliaPost
-Shipping.CanadaPost
 Shipping.FedEx
-Shipping.FixedOrByWeight
 Shipping.UPS
 Shipping.USPS
 Tax.FixedOrByCountryStateZip

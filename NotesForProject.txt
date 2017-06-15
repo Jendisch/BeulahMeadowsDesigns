@@ -1,0 +1,88 @@
+opacity: 0.5;
+853a49
+
+
+
+4ab2f1
+337ab7
+265a88
+23527c
+
+
+navbar 3c8dbc
+
+
+950 width
+350 height
+
+
+http://192.168.0.118:15536
+
+url callback!!
+http://localhost:15536/plugins/externalauthGoogle/logincallback/
+
+
+
+
+La Belle Legacy 
+105 W. Wisconsin Avenue 
+Oconomowoc, WI 53066
+Lat: 43.111		Long: -88.499
+
+
+This N That Craft Mill 
+S42 W31254 Hwy 83 
+Genesee Depot, WI 53127
+Lat: 42.967		Long: -88.370
+
+
+Zden's Artwork
+1541 Main Street 
+Mukwonago, WI 53149
+Lat: 42.842		Long: -88.344
+
+
+Angelus Home & Garden 
+325 Kenosha St. Hwy 67 
+Walworth WI 53184
+Lat: 42.531		Long: -88.594
+
+
+A Conversation Piece 
+132 S 6th Avenue 
+West Bend, WI 53095
+Lat: 43.423		Long: -88.184
+
+
+Mame's Antique Shoppe
+282 North Ave
+Hartland, WI 53029
+Lat: 43.108		Long: -88.346
+
+
+Cattywampus Design 
+6123 W North Avenue 
+Wauwatosa, WI 53213
+Lat: 43.061		Long: -87.989
+
+
+Lamm Gardens 
+2708 Sherman Road 
+Jackson, WI 53037
+Lat: 43.311		Long: -88.173
+
+
+The Gingerbread House 
+S63 W16147 College Avenue 
+Muskego, WI 53150
+Lat: 42.929 	Long: -88.115
+
+
+Northwind Perennial Farm 
+7047 Hospital Road 
+Burlington, WI 53105
+Lat: 42.654 	Long: -88.406
+
+
+
+
